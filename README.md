@@ -1,26 +1,20 @@
 <h1 align="center">Hello!, I'm Anderson Alves! 👋</h1>
 
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ander-alves.ander-alves" alt="Visitor Badge"/>
+<div align="center">
+  <h3>👩‍💻 About Me</h3>
+  <div align='left'>
+  <p>
+  🔭 I am currently a Mid-Level Software Engineer at @Banco Pan, constantly striving to learn new technologies.
+
+  🌱 I hold a degree in engineering and an MBA in Software Architecture and Solutions.
+
+   📄 Experience: I have over 6 years of experience in robotics and programming
+      
+   ⚡ Fun fact: In my free time, I enjoy exploring new places and trying different restaurants.
+   
+  </p>   
   </div>
-
-  <div align="center">
-    <h3>👩‍💻  About Me</h3>
-    <div align='left'>
-      <p >
-
-  🔭 I am currently focused on transitioning my career path.
-
-  🌱 I am Engineering and a postgraduate MBA in Software Architecture and Solutions.
-
-  🤝 I am collaborate on [Iniciativa Atena](https://iniciativatena.netlify.app/).
-
-  📄 About my experiences: I have worked with robotics and programming for 6 years.
-
-  ⚡ Fun fact: In my free time, I enjoy exploring new places and trying out new restaurants.
-      </p>
-    </div>
-  </div>
+</div>
 
   <div align="center">
     <a href="https://www.linkedin.com/in/anderson-alves/" target="_blank">
