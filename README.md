@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 About
-- Backend Engineer com foco em **Java + Spring Boot**
+- Backend Engineer com foco em **Java**
 - Experiência em **microsserviços e sistemas distribuídos**
-- Atuação no setor bancário (alta escala e criticidade)
+- Atuação no setor bancário (Banco Pan/Itaú)
 - Pós-graduação em Arquitetura de Software
 
 ---
