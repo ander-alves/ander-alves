@@ -1,63 +1,37 @@
-<h1 align="center">Hello!, I'm Anderson Alves! 👋</h1>
+<h1 align="center">Anderson Alves 👋</h1>
 
-<div align="center">
-  <h3>👩‍💻 About Me</h3>
-  <div align='left'>
-  <p>
-  🔭 I am currently a Mid-Level Software Engineer at @Banco Pan, constantly striving to learn new technologies.
+<p align="center">
+  Software Engineer | Backend | Microservices
+</p>
 
-  🌱 I hold a degree in engineering and an MBA in Software Architecture and Solutions.
+---
 
-   📄 Experience: I have over 6 years of experience in robotics and programming
-      
-   ⚡ Fun fact: In my free time, I enjoy exploring new places and trying different restaurants.
-   
-  </p>   
-  </div>
-</div>
+### 👨‍💻 About
+- Backend Engineer com foco em **Java + Spring Boot**
+- Experiência em **microsserviços e sistemas distribuídos**
+- Atuação no setor bancário (alta escala e criticidade)
+- Pós-graduação em Arquitetura de Software
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/anderson-alves/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo"/>
-    </a>
+---
 
-   <a href="mail.to:alves_anderson@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"/>
+
+### ⚙️ Stack
+**Backend:** Java, Spring Boot, JPA/Hibernate  
+**Arquitetura:** Microservices, REST APIs, Event-Driven  
+**Mensageria:** Kafka, RabbitMQ  
+**Banco:** PostgreSQL, MongoDB, Redis  
+**Infra:** Docker, Kubernetes  
+
+---
+
+### 📫 Contact
+
+<div>
+  <a href="https://www.linkedin.com/in/anderson-alves/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://wa.me/11947827007?text=Ola%2C%20Encontrei%20Seu%20WhatsApp%20Pelo%20Github!" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>
-  </div>
 
-  <h3 align="center">🛠 Language and Tools</h3>
-
-  <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  </div>
-
-  <h3 align="center">🔥 My Stats</h3>
-
-  <div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ander-alves&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-  </div>
-
-  <div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ander-alves&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-  </div>
+  <a href="mailto:alves_anderson@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</div>
